@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
     spec.add_dependency "httpx", "~> 1.2"
     spec.add_dependency "faye-websocket", "~> 0.11.3"
     spec.add_dependency "csv", "~> 3.1"
-    spec.add_dependency "ed25519", "~> 1.3"
+    spec.add_dependency "rbnacl", "~> 5.0"
     spec.add_dependency "base58", "~> 0.2.3"
     spec.add_dependency "base64", "~> 0.2.0"
     spec.add_dependency "rdoc", "~> 6.7.0"
